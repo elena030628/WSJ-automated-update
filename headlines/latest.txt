@@ -1,0 +1,78 @@
+WSJ Headlines  —  2026-06-02 02:52:01
+
+────────────────────────────────────────────────────────────
+  World News
+────────────────────────────────────────────────────────────
+1. Palestinians Stream Back to Northern Gaza on Foot
+   Mon, 27 Jan 2025 14:23:00 -0500
+   https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db
+2. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
+   Mon, 27 Jan 2025 12:32:00 -0500
+   https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863
+3. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
+   Mon, 27 Jan 2025 12:12:00 -0500
+   https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e
+4. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
+   Mon, 27 Jan 2025 11:22:00 -0500
+   https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba
+5. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
+   Mon, 27 Jan 2025 10:07:00 -0500
+   https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8
+
+────────────────────────────────────────────────────────────
+  US Business
+────────────────────────────────────────────────────────────
+1. Wall Street Banks Prepare to Sell Billions of Dollars of X Loans
+   Fri, 24 Jan 2025 15:37:00 -0500
+   https://www.wsj.com/articles/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1?mod=pls_whats_news_us_business_f
+2. Canada to Provide $720 Million to Canada Post to Avoid Insolvency at Mail Service
+   Fri, 24 Jan 2025 15:13:00 -0500
+   https://www.wsj.com/articles/canada-to-provide-720-million-to-canada-post-to-avoid-insolvency-at-mail-service-fc09a6b9?mod=pls_whats_news_us_business_f
+3. Amazon Willing to Discuss Quebec Shutdown With Canadian Officials
+   Fri, 24 Jan 2025 14:15:00 -0500
+   https://www.wsj.com/articles/amazon-willing-to-discuss-quebec-shutdown-with-canadian-officials-610e5f59?mod=pls_whats_news_us_business_f
+4. Target Drops DEI Goals and Ends Program to Boost Black Suppliers
+   Fri, 24 Jan 2025 13:51:00 -0500
+   https://www.wsj.com/articles/target-drops-dei-goals-and-ends-program-to-boost-black-suppliers-77cb4c75?mod=pls_whats_news_us_business_f
+5. Energy & Utilities Roundup: Market Talk
+   Fri, 24 Jan 2025 12:29:00 -0500
+   https://www.wsj.com/articles/energy-utilities-roundup-market-talk-08708375?mod=pls_whats_news_us_business_f
+
+────────────────────────────────────────────────────────────
+  Markets
+────────────────────────────────────────────────────────────
+1. Stocks Sink in Broad AI Rout Sparked by China's DeepSeek
+   Mon, 27 Jan 2025 14:26:00 -0500
+   https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main
+2. Comex Gold, Silver Settle Lower
+   Mon, 27 Jan 2025 14:01:00 -0500
+   https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main
+3. DeepSeek Won't Sink U.S. AI Titans
+   Mon, 27 Jan 2025 13:12:00 -0500
+   https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main
+4. Financial Services Roundup: Market Talk
+   Mon, 27 Jan 2025 12:27:00 -0500
+   https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main
+5. Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat
+   Mon, 27 Jan 2025 12:20:00 -0500
+   https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main
+
+────────────────────────────────────────────────────────────
+  Technology
+────────────────────────────────────────────────────────────
+1. What to Know About China's DeepSeek AI
+   Mon, 27 Jan 2025 13:17:00 -0500
+   https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology
+2. Tech, Media & Telecom Roundup: Market Talk
+   Mon, 27 Jan 2025 12:28:00 -0500
+   https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology
+3. Silicon Valley Is Raving About a Made-in-China AI Model
+   Mon, 27 Jan 2025 09:36:00 -0500
+   https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology
+4. Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup
+   Mon, 27 Jan 2025 08:00:00 -0500
+   https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology
+5. Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out
+   Sun, 26 Jan 2025 09:00:00 -0500
+   https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology
+
